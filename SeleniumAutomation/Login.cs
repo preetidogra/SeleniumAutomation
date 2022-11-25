@@ -12,5 +12,11 @@ namespace SeleniumAutomation
     {
 
         IWebDriver driver = new ChromeDriver();
+
+        
+        public void StartBrowser()
+        {
+
+        }
     }
 }
